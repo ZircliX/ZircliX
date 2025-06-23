@@ -1,31 +1,25 @@
-# 👋 Hi, I'm Zecex
+# 👋 Hi, I'm ZircliX
 
-I'm a solo developer who creates tools for Unity game creators.  
+I'm a solo developer who creates tools but also games for Unity Engine.  
 My goal is to make game development easier and faster with helpful tools you can plug right into your workflow.
 
 ---
 
 ## 🛠️ What I Do
-- 🧩 Unity Editor Extensions
 - 🛠️ Productivity Tools for Developers
-- 📦 Asset Store-Ready Packages
 - 🧪 Small Utilities That Save Time
-
+- 📦 Asset Store-Ready Packages
+- 🎮 Games and Prototypes for School, GameJams or Personnal Projects 
 ---
 
 ## 🔧 Featured Projects
-- **[ToolNameHere](#)** – A quick description of what it does  
-- **[AnotherTool](#)** – Another quick blurb here
-
-> *(Replace with real links or leave placeholders for now)*
+- **[Objective System](https://github.com/ZircliX/ZCX-Zecex/tree/main/Assets/Scripts/ObjectiveSystem)** – Gives you a fast and easy to use environment to create quests and objectives for your games.    
 
 ---
 
 ## 🚀 Connect With Me
-- 🕹️ [Unity Asset Store](#)  
-- 🌐 [zecex.dev](#) *(or your site when live)*  
-- 📫 Email: your.email@example.com  
-- 🐦 Twitter/X: [@zecexdev](#) *(if applicable)*
+- 🕹️ [Unity Asset Store](https://assetstore.unity.com/publishers/118816)  
+- 📫 Email: zirclix.dev@gmail.com 
 
 ---
 
