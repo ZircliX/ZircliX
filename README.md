@@ -14,7 +14,7 @@ My goal is to make game development easier and faster with helpful tools & syste
 ## 🔧 Featured Projects
 🎯 **[Quest / Objective System](https://github.com/ZircliX/ZCX-Zecex/tree/main/Assets/Scripts/ObjectiveSystem)** – Gives you a fast and easy to use environment to create quests and objectives for your games.
 
-### 💡 Future Projects / Ideas
+### 📌 Future Projects / Ideas
 - Shop / Market System
 - Interaction System
 
