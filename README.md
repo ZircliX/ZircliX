@@ -6,13 +6,15 @@ My goal is to make game development easier and faster with helpful tools & syste
 ---
 
 ## 🛠️ What I Do
-- 🛠️ Systems for different use cases 
+- 🛠️ Systems for games 
 - 📦 Asset Store-Ready Packages
 - 🎮 Games and Prototypes for School, GameJams or Personnal Projects
+
 ---
 
 ## 🔧 Featured Projects
-🎯 **[Quest / Objective System](https://github.com/ZircliX/ZCX-Zecex/tree/main/Assets/Scripts/ObjectiveSystem)** – Provides a fast and easy to use environment to create and manage quests / objectives and rewards for your games.
+🎯 **[Quest / Objective System](https://github.com/ZircliX/ZCX-Zecex/tree/main/Assets/Scripts/ObjectiveSystem)** – A modular and extensible quest system for Unity. Easily define quests, objectives, and conditions with support for progress tracking, event-driven logic, and customizable workflows. Ideal for RPGs, open-world games, or any title needing structured task progression.\
+🎁 **[Reward System](https://github.com/ZircliX/ZCX-Zecex/tree/main/Assets/Scripts/RewardSystem)** - A flexible reward architecture built to decouple reward definition from reward processing. Define custom reward types (like items, currency, XP), then implement how they're applied — making it easy to expand and integrate into your economy or quest systems.
 
 ### 📌 Future Projects / Ideas
 - Menu System
