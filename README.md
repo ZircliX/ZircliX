@@ -28,8 +28,8 @@ Perfect for RPGs, open-world titles, or any game with structured tasks.
 ### 🎁 [Reward System](https://github.com/ZircliX/ZCX-Zecex/tree/main/Assets/Scripts/RewardSystem)
 A **flexible reward architecture** that separates reward definition from application.  
 Create custom reward types like:
-- 💰 Currency  
-- 🎁 Items  
+- 💸 Currency  
+- 📦 Items  
 - ⭐ XP  
 Then define how they're applied — making it easy to expand and integrate with other systems like quests or economies.
 
@@ -37,7 +37,7 @@ Then define how they're applied — making it easy to expand and integrate with 
 
 ## 📌 Future Projects / Ideas
 
-- [ ] Menu System  
+- [ - ] Menu System  
 
 ---
 
