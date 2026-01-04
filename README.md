@@ -42,7 +42,8 @@ Then define how they're applied — making it easy to expand and integrate with 
 ---
 
 ## 🚀 Connect With Me
-- 🕹️ [Unity Asset Store](https://assetstore.unity.com/publishers/118816)  
+- 🎮 Itch.io : **[zirclix.itch.io](https://zirclix.itch.io)**
+- 🪢 LinkedIn : **[GUYON Loïs](https://www.linkedin.com/in/loïs-guyon-8958172b2/)**
 - 📫 Email: **zirclix.dev@gmail.com**  
 - 💬 Discord: **zirclix**
 
